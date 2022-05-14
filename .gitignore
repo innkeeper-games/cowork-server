@@ -1,0 +1,8 @@
+
+.vscode/settings.json
+accounts/
+sessions/
+database.ini
+*.pyc
+.vscode/settings.json
+.vscode/settings.json
